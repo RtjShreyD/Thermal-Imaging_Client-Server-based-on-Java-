@@ -1,0 +1,1 @@
+# Thermal-Imaging_Client-Server-based-on-Java-
