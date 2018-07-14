@@ -1,1 +1,2 @@
-# Thermal-Imaging_Client-Server-based-on-Java-
+WHAT ACTUALLY NEEDS TO BE DONE: there should be two nodes.One end of the node sends the csv files(of all the postures) and the other node which have matlab in it,computes and sends the measurement csv file back to the 1st node. 
+WHAT IS DONE:The mft_sender_cli is the code of the server and the server computes the measurements and returns the csv file to the receiver.The reciever code is filereciever.
